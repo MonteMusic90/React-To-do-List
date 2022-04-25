@@ -13,4 +13,4 @@ Instructions
   
 3. Run the sample application
 
-npm start
+npm sta
