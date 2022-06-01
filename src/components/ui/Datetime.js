@@ -7,7 +7,7 @@ var datetime = ()=>
 {  
        return(
          <div>
-             <input type="date" onChange={e=>setDate(e.target.value)}/>
+             <input type="date"/>
          </div>
      );
  }
